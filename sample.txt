@@ -1,2 +1,3 @@
 Even monkey can understand
 Add bold
+Pull: Obtain the content of the remote repository
