@@ -1,2 +1,3 @@
 Even monkey can understand
 Add bold
+commit: Save the status of an index
