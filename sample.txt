@@ -2,4 +2,5 @@ Even monkey can understand
 Add bold
 commit: Save the status of an index 
 Pull: Obtain the content of the remote repository
+Add: uid/pw to URL
 
